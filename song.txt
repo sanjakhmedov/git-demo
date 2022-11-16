@@ -14,4 +14,4 @@ bla bla bar
 
 some content 
 and here!
->>>>>>> parent of a293a44 (Revert "Revert "finished second part"")
+
