@@ -8,4 +8,13 @@ Shield by shiled
 Side by side
 We're marching into destiny
 -------------------------------------
+<<<<<<< HEAD
 bla bla bar
+=======
+bla bla bar
+=======
+
+some content 
+and here!
+
+>>>>>>> 5b6ead669a28dbda5eb56012ded8cfe5179f688b
